@@ -20,6 +20,8 @@ Here’s how the Movie Recommendation System looks in action 👇
 
 ![Movie Recommendation Demo](assets/demo_screenshot.png)
 
+![Movie Recommendation Demo](assets/demo_screenshot1.png)
+
 ---
 
 ## ⚙️ Installation
@@ -60,7 +62,7 @@ streamlit run app.py
 | `similarity.pkl` | Pickle file containing precomputed similarity matrix |
 | `README.md` | Project documentation |
 | `requirements.txt` | List of Python packages required |
-| `assets/` | Optional folder for images/screenshots |
+| `assets/` | Folder for images/screenshots |
 
 ---
 
